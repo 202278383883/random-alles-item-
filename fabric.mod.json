@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "randommizer",
+  "version": "1.0.0",
+  "name": "Random Mizer Mod",
+  "description": "Eine Beispiel-Mod für Fabric",
+  "authors": ["DeinName"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.RandomMizerMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}
